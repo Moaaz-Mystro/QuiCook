@@ -1,4 +1,1 @@
-kivy 
-os
-pyperclip
-json
+kivy
